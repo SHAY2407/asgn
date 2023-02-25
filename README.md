@@ -36,10 +36,12 @@ Asgn. consists of both a student and teacher side
 
 `flask` `node.js`
 
-2.Frontend Development
+2.Frontend Development:
+
 `HTML` `CSS`
 
-3. ML model
+3.ML model:
+
 `python` `Spyder` `Jupyter Notebook`
 
 ## Models Used
