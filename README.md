@@ -59,3 +59,6 @@ We used a useful library called 'lazy predict', which helped us to find appropri
 |:-------------------------------------------:|:-------------:|
 | Accuracy                                    |76.4           |
 | Cross Validation Score                      |0.6            |
+
+## Conclusion
+In summary, Asgn. is an innovative platform that aims to reduce the stress of assignment dumps by increasing cross-subject transparency and tracking student progress. With features such as a global calendar, ML generated deadline suggestions, and model-generated assessments, Asgn. aims to improve student efficiency and reduce conflicts in student workloads. The platform is designed to be used by both students and teachers, with distinct features for each group
