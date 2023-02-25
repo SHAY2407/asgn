@@ -11,6 +11,7 @@ Ed-tech + machine learning
 Asgn. aims to solve both of these problems in the following ways:
 
 1.Increasing cross-subject transparency by introducing a global calendar for teachers with ML generated deadline suggestions based on students data sets and other      subject workloads.
+
 2.Tracking and improving student progess by model-generated assessments that are purely for improving core knowledge of the subject.
 
 ## Overview
@@ -32,11 +33,14 @@ Asgn. consists of both a student and teacher side
 
 ## Tech Stack
 1.Backend Development: 
-`flask``node.js`
+
+`flask` `node.js`
+
 2.Frontend Development
-`HTML``CSS`
+`HTML` `CSS`
+
 3. ML model
-`python``Spyder``Jupyter Notebook`
+`python` `Spyder` `Jupyter Notebook`
 
 ## Models Used
 1.Random Forest Regression
