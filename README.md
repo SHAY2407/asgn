@@ -23,13 +23,15 @@ Asgn. consists of both a student and teacher side
 -Teachers may have a look at the global calendar
 -A home feed to see latest posted assessments along with ML generated ones.
 
-
+![image](https://github.com/SHAY2407/asgn/blob/main/images/site1.jpg)
 
 ### The student side
 
 -A student home feed to see latest posted assessments with a due date and estimated completion time
 -Deadline notifications
 -Distinct colour coded subject calendar
+
+![image](https://github.com/SHAY2407/asgn/blob/main/images/site2.jpg)
 
 ## Tech Stack
 1.Backend Development: 
@@ -48,6 +50,8 @@ Asgn. consists of both a student and teacher side
 1.Random Forest Regression
 2.Linear Regression
 We used a useful library called 'lazy predict', which helped us to find appropriate ML models which will give a decent accuracy with respect to the data available
+
+![image](https://github.com/SHAY2407/asgn/blob/main/images/LazyPredict.jpg)
 
 ## Accuracy 
 
